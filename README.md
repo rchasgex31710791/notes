@@ -84,3 +84,8 @@ Use version control systems, such as Git, to keep track of your code and collabo
 
 # 2023-12-01
 - "Keep it simple, stupid!"
+
+# 2023-12-02
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's often better to write simple, readable code first and optimize only when profiling indicates that a particular section of code is causing performance issues.
