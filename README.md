@@ -193,3 +193,8 @@ This quote reminds us that optimizing code too early in the development process 
 6. Learn to communicate effectively: As a developer, you need to be able to explain your ideas and solutions to non-technical people. Effective communication is essential for collaboration and problem solving.     
 7. Stay organized: Keep your code, projects, notes, learning resources, files, folders, libraries, packages, plugins, modules, configurations, settings, options, preferences, aliases, macros, shortcuts, bookmarks, tabs, windows, desktops, menus, toolbars, docking, undocking organized. Organization is key to productivity and efficiency.      
 8. Use version control: Learn how to use version controllers like Git. Version control helps you keep track of your work, collaborate with others, make backups, revert to previous versions, merge changes, fix conflicts, commit your changes and push to remote repositories.
+
+# 2024-01-04
+- Today's programming wisdom: "Code is read far more often than it's written. Strive to make your code clear, concise, and self-explanatory. Comment when necessary but write code that mostly speaks for itself. Remember, future you (or someone else) will thank present you for writing maintainable and understandable code." 
+
+In essence, the emphasis lies on creating readable, maintainable software. The quality of your code not only depends on its functionality but also how easily others can understand and work with it in the long run. This includes adhering to coding standards, using descriptive variable names, structuring code modularly, and limiting complexity.
