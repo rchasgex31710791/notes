@@ -285,3 +285,8 @@ And also, "Program for today, but design for tomorrow. Anticipate future changes
 6. Version control: Learn and use version control systems, such as Git, to manage your code and collaborate with others. It will help keep your work organized and make it easier to track changes and fixes.     
 7. Write clean, well-documented code: Follow best practices in coding and documentation to make yourcode easy to understand and maintain.This will also help reduce the risk of bugs and errors in future updates.       
 8. Adaptability: As technologiesand programming langauges continue to change, stay open toadapting tonew methods andtools. Being able to learn and adapt quickly will set you apart from others in you field and help maintain your career growth.
+
+# 2024-01-19
+- Today's programming wisdom: "Code is read more often than it's written. Strive for clarity and readability to ensure your code remains maintainable and understandable by others, even yourself in the future." 
+
+In practice, this means adhering to consistent naming conventions, writing descriptive comments, avoiding overcomplicated constructs, breaking down complex logic into smaller functions or modules, and generally following established best practices and design patterns that promote simplicity and ease of comprehension. Remember, a program that's easy to understand is easier to debug, modify, and extend over time.
