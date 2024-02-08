@@ -390,3 +390,8 @@ This quote emphasizes that early-stage over-optimization of code can lead to unn
 
 Second, planning ahead is crucial. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break down the task into smaller, manageable steps, then allocate time for each step. Having a clear plan will keep you on track and prevent you from getting lost in the code. 
  - 来自n.p.m.
+
+# 2024-02-08
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive for simplicity in design and implementation. Clear, concise code that's easy to understand and maintain often proves more robust and efficient than complex solutions. Always aim to reduce complexity whenever possible while ensuring your code effectively solves the problem at hand." 
+
+"Remember also that 'Premature optimization is the root of all evil.' — Donald Knuth. Focus first on writing clean, correct code. Optimize only when necessary and after measuring performance. Lastly, 'Code is read much more often than it is written.' — Robert C. Martin ('Uncle Bob'). Invest in good documentation and readable code; it'll save time and effort for you and your team in the long run."
